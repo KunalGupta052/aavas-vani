@@ -8,7 +8,7 @@ Purpose:
 Create public tunnel for local backend.
 
 Configuration:
-NGROK_AUTHTOKEN=<YOUR_HUGGING_FACE_TOKEN>
+NGROK_AUTHTOKEN=<YOUR_NGROK_TOKEN>
 
 
 ----------------------
